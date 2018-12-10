@@ -1,4 +1,4 @@
-# Advent-1.1
+# Advent-1
 
 https://adventofcode.com/
 
